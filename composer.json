@@ -1,0 +1,14 @@
+{
+    "name": "ysrtech/groupscatalog2",
+    "description": "OpenMage: hide products and categories per customer group (Netzarbeiter_GroupsCatalog2 0.3.6 by Vinai Kopp, maintained for OpenMage 20 / PHP 8.4).",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "extra": {
+        "map": [
+            ["app", "app"]
+        ]
+    }
+}
